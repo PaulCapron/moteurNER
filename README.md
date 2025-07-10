@@ -2,7 +2,7 @@
 
 ## Pourquoi l'Open data des décisions de justice ?
 
-   « ***La justice doit être accessible et la Cour de cassation s’engage à relever le défi en utilisant les potentialités des technologies  appliquées au droit*** » - *Chantal Arnes, première présidente de la Cour de cassation, pour La Semaine juridique - édition générale (30.03.20)*
+   « ***La justice doit être accessible et la Cour de cassation s’engage à relever le défi en utilisant les potentialités des technologies  appliquées au droit*** » - *Chantal Arens, première présidente de la Cour de cassation, pour La Semaine juridique - édition générale (30.03.20)*
 
 ### Qu'est l'ouverture des décisions de justice ?
 
